@@ -1,0 +1,16 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Introduction}{1}%
+\contentsline {section}{\numberline {1.1}Automatic Controllers}{1}%
+\contentsline {section}{\numberline {1.2}Classification of Industrial controllers}{2}%
+\contentsline {section}{\numberline {1.3}Proportional Control}{3}%
+\contentsline {section}{\numberline {1.4}Integral Control}{4}%
+\contentsline {section}{\numberline {1.5}Proportional-plus-integral controllers}{5}%
+\contentsline {section}{\numberline {1.6}Proportional-plus-derivative controllers}{6}%
+\contentsline {section}{\numberline {1.7}Proportional-plus-integral-plus-derivative controllers}{6}%
+\contentsline {section}{\numberline {1.8}Application}{8}%
+\contentsline {chapter}{\numberline {2}PID controller in python}{10}%
+\contentsline {section}{\numberline {2.1}code}{10}%
+\contentsline {chapter}{\numberline {3}Results and Discussion}{11}%
+\contentsline {chapter}{\numberline {4}Summary and Conclusions}{12}%
+\contentsline {chapter}{References}{13}%
+\contentsline {chapter}{Appendix \numberline {A}(Optional)}{15}%
