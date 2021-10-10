@@ -39,5 +39,4 @@
 \contentsline {subsubsection}{Seting the values of $K_p = \to \text {} K_p$ , $K_i \to \text {2x} K_i $ $K_d \to \text {} K_d$ we get the plot.}{31}%
 \contentsline {subsubsection}{Seting the values of $K_p = \to \text {} K_p$ , $K_i \to \text {} K_i $ $K_d \to \text {2x} K_d$ we get the plot.}{32}%
 \contentsline {chapter}{\numberline {4}Summary and Conclusions}{33}%
-\contentsline {chapter}{References}{34}%
-\contentsline {chapter}{Appendix \numberline {A}(Optional)}{36}%
+\contentsline {chapter}{\numberline {5}Reference}{35}%

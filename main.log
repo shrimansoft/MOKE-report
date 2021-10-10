@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.11)  10 OCT 2021 23:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.11)  10 OCT 2021 23:56
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -346,7 +346,7 @@ runsystem(rm main.aex)...executed.
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count297
 \l__pdf_internal_box=\box63
-) (./main.aux (./title.aux) (./dedicate.aux) (./declaration.aux) (./acknowledgement.aux) (./abstract.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./reference.aux) (./app1.aux))
+) (./main.aux (./title.aux) (./acknowledgement.aux) (./abstract.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./reference.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
@@ -394,27 +394,15 @@ Package pdftex.def Info: logo1.jpg  used on input line 28.
 
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo1.jpg>]
-\openout2 = `dedicate.aux'.
-
- (./dedicate.tex) [1
-
-
-]
-\openout2 = `declaration.aux'.
-
- (./declaration.tex) [2
-
-
-]
 \openout2 = `acknowledgement.aux'.
 
- (./acknowledgement.tex) [3
+ (./acknowledgement.tex) [1
 
 
 ]
 \openout2 = `abstract.aux'.
 
- (./abstract.tex) [4
+ (./abstract.tex) [2
 
 
 ] (./main.toc
@@ -429,7 +417,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [5
+ [3
 
 
 
@@ -437,14 +425,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [6
-
-
-] (./main.lot)
-\tf@lot=\write7
-\openout7 = `main.lot'.
-
- [7
+ [4
 
 
 ]
@@ -457,7 +438,7 @@ Chapter 1.
 
 
 ] [2] [3] [4]
-<Basic block of PI Controller.svg.png, id=51, 451.6875pt x 133.49875pt>
+<Basic block of PI Controller.svg.png, id=42, 451.6875pt x 133.49875pt>
 File: Basic block of PI Controller.svg.png Graphic file (type png)
 <use Basic block of PI Controller.svg.png>
 Package pdftex.def Info: Basic block of PI Controller.svg.png  used on input line 110.
@@ -468,7 +449,7 @@ Overfull \hbox (1.9357pt too wide) in paragraph at lines 139--139
  []
 
 [6]
-<PID_en.svg.png, id=62, 602.25pt x 213.79875pt>
+<PID_en.svg.png, id=52, 602.25pt x 213.79875pt>
 File: PID_en.svg.png Graphic file (type png)
 <use PID_en.svg.png>
 Package pdftex.def Info: PID_en.svg.png  used on input line 146.
@@ -478,7 +459,7 @@ Package pdftex.def Info: PID_en.svg.png  used on input line 146.
 
  (./chap2.tex
 Chapter 2.
-<TCLabOverview.png, id=73, 171.2799pt x 257.2812pt>
+<TCLabOverview.png, id=64, 171.2799pt x 257.2812pt>
 File: TCLabOverview.png Graphic file (type png)
 <use TCLabOverview.png>
 Package pdftex.def Info: TCLabOverview.png  used on input line 7.
@@ -488,7 +469,7 @@ Package pdftex.def Info: TCLabOverview.png  used on input line 7.
 
 
  <./TCLabOverview.png>]
-<TCLabOverview2.png, id=78, 171.2799pt x 257.2812pt>
+<TCLabOverview2.png, id=69, 171.2799pt x 257.2812pt>
 File: TCLabOverview2.png Graphic file (type png)
 <use TCLabOverview2.png>
 Package pdftex.def Info: TCLabOverview2.png  used on input line 22.
@@ -510,37 +491,37 @@ Overfull \vbox (1.55698pt too high) detected at line 85
 \openout3 = `main.pyg'.
 
  (./_minted-main/D8736BE49E331303F7D178676ADC0D824FBEEAFC55D0059826E664B9BBCF3721.pygtex) [13]
-<PID(2,0.1,2).png, id=93, 559.18912pt x 426.393pt>
+<PID(2,0.1,2).png, id=83, 559.18912pt x 426.393pt>
 File: PID(2,0.1,2).png Graphic file (type png)
 <use PID(2,0.1,2).png>
 Package pdftex.def Info: PID(2,0.1,2).png  used on input line 180.
 (pdftex.def)             Requested size: 433.62pt x 330.63983pt.
  [14]
-<PID(0.2,0.1,2).png, id=97, 559.18912pt x 426.393pt>
+<PID(0.2,0.1,2).png, id=88, 559.18912pt x 426.393pt>
 File: PID(0.2,0.1,2).png Graphic file (type png)
 <use PID(0.2,0.1,2).png>
 Package pdftex.def Info: PID(0.2,0.1,2).png  used on input line 181.
 (pdftex.def)             Requested size: 433.62pt x 330.63983pt.
  [15 <./PID(2,0.1,2).png>]
-<PID(2,2,2).png, id=102, 573.64313pt x 426.393pt>
+<PID(2,2,2).png, id=93, 573.64313pt x 426.393pt>
 File: PID(2,2,2).png Graphic file (type png)
 <use PID(2,2,2).png>
 Package pdftex.def Info: PID(2,2,2).png  used on input line 182.
 (pdftex.def)             Requested size: 433.62pt x 322.31837pt.
  [16 <./PID(0.2,0.1,2).png>]
-<PID(2,20,2).png, id=107, 579.96675pt x 426.393pt>
+<PID(2,20,2).png, id=98, 579.96675pt x 426.393pt>
 File: PID(2,20,2).png Graphic file (type png)
 <use PID(2,20,2).png>
 Package pdftex.def Info: PID(2,20,2).png  used on input line 183.
 (pdftex.def)             Requested size: 433.62pt x 318.81152pt.
  [17 <./PID(2,2,2).png>]
-<PID(10,0.1,2).png, id=113, 559.18912pt x 426.393pt>
+<PID(10,0.1,2).png, id=103, 559.18912pt x 426.393pt>
 File: PID(10,0.1,2).png Graphic file (type png)
 <use PID(10,0.1,2).png>
 Package pdftex.def Info: PID(10,0.1,2).png  used on input line 184.
 (pdftex.def)             Requested size: 433.62pt x 330.63983pt.
  [18 <./PID(2,20,2).png>]
-<PID(20,0.1,2).png, id=118, 559.18912pt x 426.393pt>
+<PID(20,0.1,2).png, id=108, 559.18912pt x 426.393pt>
 File: PID(20,0.1,2).png Graphic file (type png)
 <use PID(20,0.1,2).png>
 Package pdftex.def Info: PID(20,0.1,2).png  used on input line 185.
@@ -550,7 +531,7 @@ Package pdftex.def Info: PID(20,0.1,2).png  used on input line 185.
 
  (./chap3.tex
 Chapter 3.
-<circuit.png, id=127, 932.48375pt x 726.715pt>
+<circuit.png, id=118, 932.48375pt x 726.715pt>
 File: circuit.png Graphic file (type png)
 <use circuit.png>
 Package pdftex.def Info: circuit.png  used on input line 13.
@@ -560,42 +541,42 @@ Package pdftex.def Info: circuit.png  used on input line 13.
 
 
 ] [22 <./circuit.png>] [23]
-<Opemp as I.png, id=139, 514.92375pt x 431.6125pt>
+<Opemp as I.png, id=129, 514.92375pt x 431.6125pt>
 File: Opemp as I.png Graphic file (type png)
 <use Opemp as I.png>
 Package pdftex.def Info: Opemp as I.png  used on input line 40.
 (pdftex.def)             Requested size: 216.81pt x 181.73042pt.
-<Inpput and output singal.png, id=140, 555.07375pt x 231.86626pt>
+<Inpput and output singal.png, id=130, 555.07375pt x 231.86626pt>
 File: Inpput and output singal.png Graphic file (type png)
 <use Inpput and output singal.png>
 Package pdftex.def Info: Inpput and output singal.png  used on input line 45.
 (pdftex.def)             Requested size: 216.81pt x 90.56544pt.
  [24 <./Opemp as I.png> <./Inpput and output singal.png>] [25]
-<opam as differencit.png, id=149, 398.48875pt x 337.26pt>
+<opam as differencit.png, id=139, 398.48875pt x 337.26pt>
 File: opam as differencit.png Graphic file (type png)
 <use opam as differencit.png>
 Package pdftex.def Info: opam as differencit.png  used on input line 86.
 (pdftex.def)             Requested size: 216.81pt x 183.49686pt.
  [26] [27 <./opam as differencit.png>]
-<PID-(,,).png, id=157, 1284.8pt x 1027.84pt>
+<PID-(,,).png, id=148, 1284.8pt x 1027.84pt>
 File: PID-(,,).png Graphic file (type png)
 <use PID-(,,).png>
 Package pdftex.def Info: PID-(,,).png  used on input line 131.
 (pdftex.def)             Requested size: 433.62pt x 346.88887pt.
  [28]
-<PID-(2x,,).png, id=161, 1284.8pt x 1027.84pt>
+<PID-(2x,,).png, id=152, 1284.8pt x 1027.84pt>
 File: PID-(2x,,).png Graphic file (type png)
 <use PID-(2x,,).png>
 Package pdftex.def Info: PID-(2x,,).png  used on input line 132.
 (pdftex.def)             Requested size: 433.62pt x 346.88887pt.
  [29 <./PID-(,,).png>]
-<PID-(,2x,).png, id=167, 1284.8pt x 1027.84pt>
+<PID-(,2x,).png, id=157, 1284.8pt x 1027.84pt>
 File: PID-(,2x,).png Graphic file (type png)
 <use PID-(,2x,).png>
 Package pdftex.def Info: PID-(,2x,).png  used on input line 133.
 (pdftex.def)             Requested size: 433.62pt x 346.88887pt.
  [30 <./PID-(2x,,).png>]
-<PID-(,,2x).png, id=172, 1284.8pt x 1027.84pt>
+<PID-(,,2x).png, id=162, 1284.8pt x 1027.84pt>
 File: PID-(,,2x).png Graphic file (type png)
 <use PID-(,,2x).png>
 Package pdftex.def Info: PID-(,,2x).png  used on input line 134.
@@ -609,44 +590,32 @@ Chapter 4.
 
 
 
-]
+] [34]
 \openout2 = `reference.aux'.
 
- (./reference.tex [34
+ (./reference.tex
+Chapter 5.
+) [35
 
 
 
-]
-Overfull \hbox (0.7783pt too wide) in paragraph at lines 82--83
-[]\OT1/cmr/m/n/12 U.S. En-vi-ron-men-tal Pro-tec-tion Agency, The En-vi-ron-men-tal Pro-tec-tion Agency's
- []
-
-) [35]
-\openout2 = `app1.aux'.
-
- (./app1.tex
-Appendix A.
-) [36
-
-
-
-] (./main.aux (./title.aux) (./dedicate.aux) (./declaration.aux) (./acknowledgement.aux) (./abstract.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./reference.aux) (./app1.aux))
+] (./main.aux (./title.aux) (./acknowledgement.aux) (./abstract.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux) (./reference.aux))
 runsystem(rm main.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 8113 strings out of 480608
- 130834 string characters out of 5903629
- 441103 words of memory out of 5000000
- 23734 multiletter control sequences out of 15000+600000
+ 8038 strings out of 480608
+ 130279 string characters out of 5903629
+ 439152 words of memory out of 5000000
+ 23683 multiletter control sequences out of 15000+600000
  542638 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,12n,45p,1601b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (44 pages, 1126142 bytes).
+Output written on main.pdf (40 pages, 1118923 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
+ 230 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
