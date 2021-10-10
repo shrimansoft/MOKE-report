@@ -3,6 +3,20 @@
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Basic block of PI Controller}}{5}%
 \contentsline {figure}{\numberline {1.2}{\ignorespaces courtesy}}{8}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces PID(2,0.1,2)}}{15}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces PID(0.2,0.1,2)}}{16}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces PID(2,2,2)}}{17}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces PID(2,20,2)}}{18}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces PID(10,0.1,2)}}{19}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces PID(20,0.1,2)}}{20}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Circuit diagram drawn in multisim}}{22}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces OPAMP as integrator}}{24}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces input and output signal through OPAMP has an integrator.}}{24}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces OPAMP as a differentiator}}{27}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces PID(,,)}}{29}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces PID(2x,,)}}{30}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces PID(,2x,)}}{31}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces PID(,,2x)}}{32}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }

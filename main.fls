@@ -1,8 +1,8 @@
-PWD /Users/shriman/Downloads/Template NISER MSc Thesis (2)
+PWD /Users/shriman/Downloads/PID-report
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/shriman/Downloads/Template NISER MSc Thesis (2)/main.tex
+INPUT /Users/shriman/Downloads/PID-report/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/report.cls
@@ -87,6 +87,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -217,6 +219,12 @@ INPUT ./PID_en.svg.png
 OUTPUT chap2.aux
 INPUT chap2.tex
 INPUT chap2.tex
+INPUT TCLabOverview.png
+INPUT ./TCLabOverview.png
+INPUT ./TCLabOverview.png
+INPUT TCLabOverview2.png
+INPUT ./TCLabOverview2.png
+INPUT ./TCLabOverview2.png
 OUTPUT main.pyg
 INPUT _minted-main/default-pyg-prefix.pygstyle
 INPUT _minted-main/default-pyg-prefix.pygstyle
@@ -252,9 +260,53 @@ INPUT _minted-main/D8736BE49E331303F7D178676ADC0D824FBEEAFC55D0059826E664B9BBCF3
 INPUT _minted-main/D8736BE49E331303F7D178676ADC0D824FBEEAFC55D0059826E664B9BBCF3721.pygtex
 INPUT _minted-main/D8736BE49E331303F7D178676ADC0D824FBEEAFC55D0059826E664B9BBCF3721.pygtex
 INPUT _minted-main/D8736BE49E331303F7D178676ADC0D824FBEEAFC55D0059826E664B9BBCF3721.pygtex
+INPUT PID(2,0.1,2).png
+INPUT ./PID(2,0.1,2).png
+INPUT ./PID(2,0.1,2).png
+INPUT PID(0.2,0.1,2).png
+INPUT ./PID(0.2,0.1,2).png
+INPUT ./PID(0.2,0.1,2).png
+INPUT PID(2,2,2).png
+INPUT ./PID(2,2,2).png
+INPUT ./PID(2,2,2).png
+INPUT PID(2,20,2).png
+INPUT ./PID(2,20,2).png
+INPUT ./PID(2,20,2).png
+INPUT PID(10,0.1,2).png
+INPUT ./PID(10,0.1,2).png
+INPUT ./PID(10,0.1,2).png
+INPUT PID(20,0.1,2).png
+INPUT ./PID(20,0.1,2).png
+INPUT ./PID(20,0.1,2).png
 OUTPUT chap3.aux
 INPUT chap3.tex
 INPUT chap3.tex
+INPUT circuit.png
+INPUT ./circuit.png
+INPUT ./circuit.png
+INPUT Opemp as I.png
+INPUT ./Opemp as I.png
+INPUT ./Opemp as I.png
+INPUT Inpput and output singal.png
+INPUT ./Inpput and output singal.png
+INPUT ./Inpput and output singal.png
+INPUT opam as differencit.png
+INPUT ./opam as differencit.png
+INPUT ./opam as differencit.png
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT PID-(,,).png
+INPUT ./PID-(,,).png
+INPUT ./PID-(,,).png
+INPUT PID-(2x,,).png
+INPUT ./PID-(2x,,).png
+INPUT ./PID-(2x,,).png
+INPUT PID-(,2x,).png
+INPUT ./PID-(,2x,).png
+INPUT ./PID-(,2x,).png
+INPUT PID-(,,2x).png
+INPUT ./PID-(,,2x).png
+INPUT ./PID-(,,2x).png
 OUTPUT chap4.aux
 INPUT chap4.tex
 INPUT chap4.tex

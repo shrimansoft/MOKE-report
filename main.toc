@@ -8,9 +8,36 @@
 \contentsline {section}{\numberline {1.6}Proportional-plus-derivative controllers}{6}%
 \contentsline {section}{\numberline {1.7}Proportional-plus-integral-plus-derivative controllers}{6}%
 \contentsline {section}{\numberline {1.8}Application}{8}%
-\contentsline {chapter}{\numberline {2}PID controller in python}{10}%
-\contentsline {section}{\numberline {2.1}code}{10}%
-\contentsline {chapter}{\numberline {3}Results and Discussion}{13}%
-\contentsline {chapter}{\numberline {4}Summary and Conclusions}{14}%
-\contentsline {chapter}{References}{15}%
-\contentsline {chapter}{Appendix \numberline {A}(Optional)}{17}%
+\contentsline {chapter}{\numberline {2}PID controller using python}{10}%
+\contentsline {section}{\numberline {2.1}package: TCLab}{10}%
+\contentsline {subsection}{\numberline {2.1.1}TCLab Overview}{10}%
+\contentsline {subsection}{\numberline {2.1.2}TCLab Architecture}{11}%
+\contentsline {section}{\numberline {2.2}code}{12}%
+\contentsline {section}{\numberline {2.3}Observation}{15}%
+\contentsline {subsubsection}{Seting the values of $K_p = 2$ , $K_i = 0.1 $ $K_d = 2$ we get the plot.}{15}%
+\contentsline {subsubsection}{Seting the values of $K_p = 0.2$ , $K_i = 0.1 $ $K_d = 2$ we get the plot.}{16}%
+\contentsline {subsubsection}{Seting the values of $K_p = 2$ , $K_i = 2 $ $K_d = 2$ we get the plot.}{17}%
+\contentsline {subsubsection}{Seting the values of $K_p = 2$ , $K_i = 20 $ $K_d = 2$ we get the plot.}{18}%
+\contentsline {subsubsection}{Seting the values of $K_p = 10$ , $K_i = 0.1 $ $K_d = 2$ we get the plot.}{19}%
+\contentsline {subsubsection}{Seting the values of $K_p = 20$ , $K_i = 0.1 $ $K_d = 2$ we get the plot.}{20}%
+\contentsline {chapter}{\numberline {3}PID Controller using Multisim}{21}%
+\contentsline {section}{\numberline {3.1}Multisim}{21}%
+\contentsline {section}{\numberline {3.2}Circuit design}{21}%
+\contentsline {subsection}{\numberline {3.2.1}Difference amplifier}{23}%
+\contentsline {subsection}{\numberline {3.2.2}Integration amplifier }{23}%
+\contentsline {subsection}{\numberline {3.2.3}Differentiation amplifier}{23}%
+\contentsline {subsection}{\numberline {3.2.4}Proportional amplifier}{23}%
+\contentsline {subsection}{\numberline {3.2.5}Amplification over sum}{23}%
+\contentsline {subsection}{\numberline {3.2.6}Heater circuit simulation}{23}%
+\contentsline {section}{\numberline {3.3}Op-amp as Integrator}{24}%
+\contentsline {subsection}{\numberline {3.3.1}Derivation of Op-amp as integrator}{25}%
+\contentsline {section}{\numberline {3.4}Op-amp as a Differentiator}{26}%
+\contentsline {subsection}{\numberline {3.4.1}Derivation of Op-amp as Differentiator}{27}%
+\contentsline {section}{\numberline {3.5}Observation and Calculations}{29}%
+\contentsline {subsubsection}{Seting the values of $K_p = \to \text {} K_p$ , $K_i \to \text {} K_i $ $K_d \to \text {} K_d$ we get the plot.}{29}%
+\contentsline {subsubsection}{Seting the values of $K_p = \to \text {2x} K_p$ , $K_i \to \text {} K_i $ $K_d \to \text {} K_d$ we get the plot.}{30}%
+\contentsline {subsubsection}{Seting the values of $K_p = \to \text {} K_p$ , $K_i \to \text {2x} K_i $ $K_d \to \text {} K_d$ we get the plot.}{31}%
+\contentsline {subsubsection}{Seting the values of $K_p = \to \text {} K_p$ , $K_i \to \text {} K_i $ $K_d \to \text {2x} K_d$ we get the plot.}{32}%
+\contentsline {chapter}{\numberline {4}Summary and Conclusions}{33}%
+\contentsline {chapter}{References}{34}%
+\contentsline {chapter}{Appendix \numberline {A}(Optional)}{36}%
